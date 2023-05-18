@@ -7,7 +7,7 @@ I'm craving for new knowledges and best practices, and seeking for any new proje
 
 Don't hesitate to get in touch if you have any questions, opportunities, or just want to say hello! You can reach me via:
 
-<div align="center">
+<div align="left">
   <a href="mailto:dwiikalam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/dwi-kalam-amal-tauhid"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
